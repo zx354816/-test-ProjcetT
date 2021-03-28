@@ -1,1 +1,2 @@
 D:\[test]Sysmon\ProjcetT\Project1\Debug\Project1.exe
+D:\[test]Projcet\Project1\Debug\Project1.exe

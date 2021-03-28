@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\[test]Projcet\Project1\main.cpp(13,31): error C2440: '=': 無法由 'const char *' 轉換為 'LPCWSTR'
+D:\[test]Projcet\Project1\main.cpp(13,21): message : 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+D:\[test]Projcet\Project1\main.cpp(19,1): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 無法將引數 2 從 'const char *' 轉換為 'LPCWSTR'
+D:\[test]Projcet\Project1\main.cpp(19,1): message : 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : 請參閱 'CreateWindowExW' 的宣告
